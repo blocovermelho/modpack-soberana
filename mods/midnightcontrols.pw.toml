@@ -1,0 +1,13 @@
+name = "MidnightControls"
+filename = "midnightcontrols-1.6.0+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bXX9h73M/versions/CTvplHoe/midnightcontrols-1.6.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "7c540f8c151d9370e86b5759f8ff55ec2d19d7b2"
+
+[update]
+[update.modrinth]
+mod-id = "bXX9h73M"
+version = "CTvplHoe"
