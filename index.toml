@@ -1,13 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "208a021c2243bdcbddb09c5ed46eb150c390a89801b8c44703ecb83066cf20f3"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "242e18d68cb8d218df43e713e97239631f8612384789068659c4898cfa49fcef"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+hash = "77cf3f9a7eed8114c6b5c490fda2779909e77ba80acb18a0593533704042bc2a"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
@@ -27,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
+hash = "dfebd8072576c75a939f56cab83cabdf3c5828da7cdb814e97c272e6c0b8d006"
 metafile = true
 
 [[files]]
@@ -43,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "0ab0925b9d00ddcf75dc5077fba4eee2c825945a7590750e1821ba783fb26f37"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
 metafile = true
 
 [[files]]
@@ -72,12 +92,12 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "ccf4fb143264ac5c6acb665b43b04511e83434e9b4f1f6b71b86240fe5210612"
+hash = "fc829d9bfa6e9c399324e64cc5feb01f01630fc0971c7286ac08b5575dcf89b2"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "60c62df22bf4df4cbe6445405c92617fdeab7060499caade5eea7cfb36679fe8"
+hash = "997b1a93ccd70d86710170532e27b301cd15723fd7e8e74a14d8322ce5d47dd7"
 metafile = true
 
 [[files]]
@@ -86,8 +106,13 @@ hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
 metafile = true
 
 [[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "7ceb0144fb10f62fa43e59d6fabeabe788bd03d8e2be866dc8219652569ccc87"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "419f4bdacfd5c5eb42c434c97fdd0e6a93731a32d12d9462fce2bb91c41d07d9"
+hash = "2d7024f15576d5e4f0b4ad573c5da9ef4cb33d8898886a899a33418e1e2f97d9"
 metafile = true
 
 [[files]]
@@ -103,6 +128,16 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
+metafile = true
+
+[[files]]
+file = "mods/too-many-binds.pw.toml"
+hash = "e986d3d8414319714631d4c093a0d860089afc333c913bdb5237e41413b9e9f5"
+metafile = true
+
+[[files]]
+file = "mods/ui-input-undo-fabric.pw.toml"
+hash = "65290eea5327eec6048bf873fe88abb93ca427c7a7974c6461025ec13e5cea25"
 metafile = true
 
 [[files]]

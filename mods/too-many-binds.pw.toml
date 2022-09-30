@@ -1,0 +1,13 @@
+name = "Too Many Binds"
+filename = "toomanybinds-0.3.2+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/548fsydf/versions/0.3.2+1.19/toomanybinds-0.3.2%2B1.19.jar"
+hash-format = "sha1"
+hash = "7d96426051bf7c8478886b8d59163677c889efc3"
+
+[update]
+[update.modrinth]
+mod-id = "548fsydf"
+version = "u0Y4tE6p"

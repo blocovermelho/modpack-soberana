@@ -1,12 +1,11 @@
 name = "Soberana Basics"
 author = "roridev"
-version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ef115cff9fef1d4b477c6063b788973a62655b33a35a8bfefeaa5633d290e737"
+hash = "92fba611cd2a97ceaff080483b856582cf7cb906b66e34e187ac1e9fbe3e38c3"
 
 [versions]
 minecraft = "1.19.2"
