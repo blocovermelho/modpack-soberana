@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/ISSUE_TEMPLATE/---reportar-bug-.md"
+hash = "15a457e7eb0ee69b06b37fb203d78805e38f618d105d67c520f8d02534be6940"
+
+[[files]]
+file = ".github/ISSUE_TEMPLATE/--sugest-o--adicionar-mod.md"
+hash = "38cfe028fe170e446ba7c4d9997c38630f0d199d8c425dcef7d5489f0649753d"
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "208a021c2243bdcbddb09c5ed46eb150c390a89801b8c44703ecb83066cf20f3"
 metafile = true
@@ -13,6 +21,11 @@ metafile = true
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "77cf3f9a7eed8114c6b5c490fda2779909e77ba80acb18a0593533704042bc2a"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "3ae1a0c92775ab42564f96758eae529e8d08eb0d1010b5bb810208c71b8b2b4b"
 metafile = true
 
 [[files]]
@@ -36,6 +49,21 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "bafad65f31fdd578bc7c0cd5de6f547c83f364725c63db75336b6c246be05285"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "7250c341106f7097064eaf65f72cb3d7668f0c3a28a67278442f42441020d465"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
@@ -51,8 +79,18 @@ hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "34e7ebfe442ff1a492411504d1b444bf9204432ce0153779e068ac14a2ad1655"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
-hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
+hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "dadcde5442ffdd9755166893fbf6985409908d469a557788301523c16c6e6ebc"
 metafile = true
 
 [[files]]
@@ -68,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "e02f0d0b8bf9a5a62bd10d41ddf02e405151ebd9085b0ca955f9d2f903d2a459"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "a2fcd52b158985c7e94399700d2414d0a380e55cfa0ecb0d24e4ec50982a4eb8"
 metafile = true
 
 [[files]]
@@ -108,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "7ceb0144fb10f62fa43e59d6fabeabe788bd03d8e2be866dc8219652569ccc87"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "63f43312d9b6a4b63e376205a79a25ae46a1393bc7baeef993e825f8bd4bcc94"
 metafile = true
 
 [[files]]
