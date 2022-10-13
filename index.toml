@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/ISSUE_TEMPLATE/---reportar-bug-.md"
+hash = "15a457e7eb0ee69b06b37fb203d78805e38f618d105d67c520f8d02534be6940"
+
+[[files]]
+file = ".github/ISSUE_TEMPLATE/--sugest-o--adicionar-mod.md"
+hash = "38cfe028fe170e446ba7c4d9997c38630f0d199d8c425dcef7d5489f0649753d"
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "208a021c2243bdcbddb09c5ed46eb150c390a89801b8c44703ecb83066cf20f3"
 metafile = true
