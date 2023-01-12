@@ -1,0 +1,13 @@
+name = "Find - Search For Items"
+filename = "find-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LVzh5C2x/versions/1.2/find-1.2.jar"
+hash-format = "sha1"
+hash = "6702c5346eed37732ca94e6b477dd2ec7a6c3e37"
+
+[update]
+[update.modrinth]
+mod-id = "LVzh5C2x"
+version = "Pp5V0rO5"

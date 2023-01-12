@@ -1,0 +1,13 @@
+name = "Who are you?"
+filename = "whoareyou-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zg7gtZCL/versions/Rc8oz7br/whoareyou-1.1.0.jar"
+hash-format = "sha1"
+hash = "b62e4327895ca34bb492e5092ad4142eda05d81c"
+
+[update]
+[update.modrinth]
+mod-id = "zg7gtZCL"
+version = "Rc8oz7br"
